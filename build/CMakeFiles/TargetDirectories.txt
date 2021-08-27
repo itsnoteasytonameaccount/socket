@@ -1,0 +1,7 @@
+D:/projects/cpp/build/CMakeFiles/client.dir
+D:/projects/cpp/build/CMakeFiles/server.dir
+D:/projects/cpp/build/CMakeFiles/edit_cache.dir
+D:/projects/cpp/build/CMakeFiles/rebuild_cache.dir
+D:/projects/cpp/build/communication/CMakeFiles/commu.dir
+D:/projects/cpp/build/communication/CMakeFiles/edit_cache.dir
+D:/projects/cpp/build/communication/CMakeFiles/rebuild_cache.dir

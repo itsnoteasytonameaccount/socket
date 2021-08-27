@@ -1,0 +1,3 @@
+D:\environment\cmake-3.19.1-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\commu.dir/objects.a
+D:\environment\mingw64\bin\ar.exe cr CMakeFiles\commu.dir/objects.a @CMakeFiles\commu.dir\objects1.rsp
+D:\environment\mingw64\bin\g++.exe -shared -o libcommu.dll -Wl,--out-implib,libcommu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\commu.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\commu.dir\linklibs.rsp
